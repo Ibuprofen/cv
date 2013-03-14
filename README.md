@@ -27,11 +27,11 @@ Skills used at PbNation: `php` `mysql` `mysqli` `redhat` `memcached` `vbulletin`
 ### Senior Web Developer / Full Stack Engineer – Forkfly.com
 #### September 2010 - December 2011
 
-Skills used at ForkFly: `php` `mysql` `mysqli` `nginx` `symfony2` `amazon-web-services` `amazon-ec2` `jquery` `javascript` `jquery-ui` `jenkins-ci`
+Skills used at ForkFly: `php` `php-fpm` `mysql` `percona` `nginx` `symfony2` `amazon-web-services` `amazon-ec2` `jquery` `javascript` `jquery-ui` `jenkins-ci`
 
 + Early mobile site refactoring.
 + In-house analytics solution to aid in Publisher and Merchant data. Impressions/Views breakdown.
-+ Improved DevOps and helped move infrastructure into Cloud / AWS. Documented unknown processes that were implemented prior to my employment.
++ Improved DevOps and helped move infrastructure into Cloud / AWS. Documented unknown processes that were implemented prior to my employment. Chroot/jailed nginx and php-fpm.
 + Twice rewrote consumer facing site using extensive javascript.
 + Extended frontend Mixpanel library to batch track for better performance.
 
