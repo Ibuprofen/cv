@@ -7,7 +7,7 @@ https://github.com/Ibuprofen
 > To use and expand my skills as someone who spends too much time on the Internet. To build, learn and grow in the process. To be or not to.. oh wait.
 
 ## Technical Skills
-`php` `symfony2` `ruby` `ruby-on-rails` `node.js` `jquery` `javascript` `backbone.js` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization`
+`php` `symfony2` `ruby` `ruby-on-rails` `node.js` `jquery` `javascript` `backbone.js` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci`
 
 ## Experience
 ### Founder / Full Stack Engineer – PbNation, LLC - pbnation.com
@@ -27,7 +27,7 @@ Skills used at PbNation: `php` `mysql` `mysqli` `redhat` `memcached` `vbulletin`
 ### Senior Web Developer / Full Stack Engineer – Forkfly.com
 #### September 2010 - December 2011
 
-Skills used at ForkFly: `php` `mysql` `mysqli` `nginx` `symfony2` `amazon-web-services` `amazon-ec2` `jquery` `javascript` `jquery-ui`
+Skills used at ForkFly: `php` `mysql` `mysqli` `nginx` `symfony2` `amazon-web-services` `amazon-ec2` `jquery` `javascript` `jquery-ui`, `jenkins-ci`
 
 + Early mobile site refactoring.
 + In-house analytics solution to aid in Publisher and Merchant data. Impressions/Views breakdown.
