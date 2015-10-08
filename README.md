@@ -18,7 +18,7 @@ Tech used at Cloudability: `reactjs` `backbone` `ruby` `ruby-on-rails` `REST` `m
 
 + Part of the team who rewrote a major feature from Angular to React.
 + Extensive work in Backbone, which our frontend was mostly comprised of.
-+ One of few engineers comfortable across most of the stack (java is my lava). Some days I would find myself creating new models, db indexes, relations, API endpoints and could then hop into the javascript to continue upwards.
++ One of few engineers comfortable across most of the stack. Some days I would find myself creating new models, db indexes, relations, API endpoints and could then hop into the javascript to continue upwards.
 + Agile-like development process with week long sprints and "horse trading" on feature details to meet deadlines.
 
 ### Senior Web Developer / Full Stack Engineer – 10Speak.com
@@ -49,7 +49,7 @@ Tech used at ForkFly: `php` `php-fpm` `mysql` `percona` `nginx` `symfony2` `amaz
 Tech used at PbNation: `php` `mysql` `mysqli` `redhat` `memcached` `vbulletin` `apache` `nginx`
 
 + On Call 24/7.
-+ Responsible for scaling up 14th (at that time) largest message board on the Internet and the 3rd largest. vBulletin forum install. See big-boards.com
++ Responsible for scaling up 14th (at that time) largest message board on the Internet and the 3rd largest vBulletin forum install.
 + Interface with 100+ volunteer members.
 + Responsible for troubleshooting and helping maintain a cluster serving 500,000 registered users, serving over 30 million page views a month.
 + Helped the vbulletin community by open sourcing some of our code to aid with scaling issues.
