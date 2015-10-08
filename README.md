@@ -68,7 +68,7 @@ Tech used on RapidOrb: `backbone` `ruby-on-rails` `mongodb` `elasticsearch`
 
 
 ## Education
-Some University of Cincinnati Computer Science, *2001 - 2002*
+Some University of Cincinnati Computer Science, *2001 - 2002*<br>
 Lehman Catholic High School, *1997 - 2001*
 
 
