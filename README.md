@@ -1,7 +1,7 @@
 # Tony Rieker
 
-Portland, OR, United States<br>
 tony@plenary.org<br>
+Portland, OR, United States<br>
 https://github.com/Ibuprofen
 
 
@@ -21,6 +21,8 @@ Tech used at Cloudability: `reactjs` `backbone` `ruby` `ruby-on-rails` `REST` `m
 + One of few engineers comfortable across most of the stack. Some days I would find myself creating new models, db indexes, relations, API endpoints and could then hop into the javascript to continue upwards.
 + Agile-like development process with week long sprints and "horse trading" on feature details to meet deadlines.
 
+<br>
+
 ### Senior Web Developer / Full Stack Engineer – 10Speak.com
 #### February 2012 - June 2012
 
@@ -30,6 +32,8 @@ Tech used at 10Speak: `ruby` `ruby-on-rails` `mysql` `css3` `html5` `jquery` `am
 + Open graph integration.
 + ICS downloads.
 + Startup was shutdown summer 2012.
+
+<br>
 
 ### Senior Web Developer / Full Stack Engineer – Forkfly.com
 #### September 2010 - December 2011
@@ -43,26 +47,30 @@ Tech used at ForkFly: `php` `php-fpm` `mysql` `percona` `nginx` `symfony2` `amaz
 + Extended frontend Mixpanel library to batch track for better performance.
 + Forkfly eventually rebranded to CloudEngage.
 
+<br>
+
 ### Founder / Full Stack Engineer – PbNation, LLC - pbnation.com
 #### December 2000 - May 2009
 
 Tech used at PbNation: `php` `mysql` `mysqli` `redhat` `memcached` `vbulletin` `apache` `nginx`
 
-+ On Call 24/7.
 + Responsible for scaling up 14th (at that time) largest message board on the Internet and the 3rd largest vBulletin forum install.
 + Interface with 100+ volunteer members.
 + Responsible for troubleshooting and helping maintain a cluster serving 500,000 registered users, serving over 30 million page views a month.
 + Helped the vbulletin community by open sourcing some of our code to aid with scaling issues.
 + Wrote pay-per-view access for live professional paintball events.
 + Live webcasted said professional events.
++ On call 24/7.
 + Acquired by publicly traded CrowdGather in 2011.
 
+## 
 
-### rapidorb.com (side project)
-#### September 2013 - Current
+### Everything – RapidOrb – rapidorb.com
+#### September 2013 – Current
 
 Tech used on RapidOrb: `backbone` `ruby-on-rails` `mongodb` `elasticsearch`
 
++ Hobby / Side Project
 + Web scraping various paintball classified to make finding used equipment a breeze.
 + Sending email alerts when saved searches match newly ingested listings.
 
