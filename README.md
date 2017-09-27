@@ -8,9 +8,22 @@ https://github.com/Ibuprofen
 > To use and expand my skills as someone who spends too much time on the Internet.
 
 ## Technology
-`reactjs` `backbonejs` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
+`reactjs` `backbonejs` `aws` `gcp` `docker` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
 
 ## Experience
+### Full Stack Engineer – pandastrike.com
+#### March 2016 - Current
+
+Tech used at Pandastrike: `gcp` `wordpress` `rack` `ruby` `jquery` `bamboo` `docker` `varnish` `nginx` `nodejs`
+
++ Full time contracting work with teams at Disney Consumer Products and Interactive Media.
++ Ability to work in both a ruby based CMS system as well as Wordpress/php blog sites.
++ Comfortable navigating the various integrated systems in order to achieve desired results.
++ New feature development in addition to solving bugs.
+
+<br>
+
+
 ### Full Stack Engineer – cloudability.com
 #### April 2013 - July 2015
 
