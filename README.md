@@ -79,7 +79,7 @@ Tech used at PbNation: `php` `mysql` `mysqli` `redhat` `memcached` `vbulletin` `
 ## 
 
 ### Everything – RapidOrb – rapidorb.com
-#### September 2013 – Current
+#### September 2013 – 2016
 
 Tech used on RapidOrb: `backbone` `ruby-on-rails` `mongodb` `elasticsearch`
 
