@@ -12,7 +12,7 @@ https://github.com/Ibuprofen
 
 ## Experience
 ### Full Stack Engineer – pandastrike.com
-#### March 2016 - Current
+#### March 2016 - Sept 2017
 
 Tech used at Pandastrike: `gcp` `wordpress` `rack` `ruby` `jquery` `bamboo` `docker` `varnish` `nginx` `nodejs`
 
