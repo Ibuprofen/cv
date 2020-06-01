@@ -8,9 +8,21 @@ https://github.com/Ibuprofen
 > To use and expand my skills as someone who spends too much time on the Internet.
 
 ## Technology
-`reactjs` `backbonejs` `aws` `gcp` `docker` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
+`reactjs` `docker` `backbonejs` `aws` `gcp` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
 
 ## Experience
+
+### Senior Software Engineer - The Walt Disney Company
+#### October 2017 - Present
+
+Tech used at TWDC: `react` `backbone` `gcp` `wordpress` `rack` `ruby` `jquery` `docker` `varnish` `nginx` `nodejs` `lighthouse`
+
++ Able to support modern frameworks and libraries as well as older tech.
++ A team member that others look to for guidance and assistance.
++ Supporting and updating well known sites such as disney.com and starwars.com.
+
+<br>
+
 ### Full Stack Engineer – pandastrike.com
 #### March 2016 - Sept 2017
 
@@ -93,13 +105,17 @@ Some University of Cincinnati Computer Science, *2001 - 2002*<br>
 Lehman Catholic High School, *1997 - 2001*
 
 
-## Media / Links
-[About Us - PbNation](http://www.pbnation.com/misc2.php?do=aboutus)<br>
-[PbNation Interview for PGI Magazine](http://imgur.com/a/l3dSj)<br>
-[The Rocker Cocker: A high school electronics project.](http://www.youtube.com/watch?v=jANzm64ohGk)
-
 ## Hobbies
-`mechanics` `electronics` `camping` `climbing` `hiking` `motorcycling` `biking` `paintball` `music` `travel` `history`
+* [mechanics](https://www.youtube.com/watch?v=gvJm-KGBxm0)
+* electronics
+* [art](https://www.youtube.com/watch?v=DhQx0mToBSc)
+* [camping](https://raw.githubusercontent.com/Ibuprofen/cv/master/photos/15003258_10211163124098940_2776291476519222444_o.jpg)
+* [climbing/hiking](https://raw.githubusercontent.com/Ibuprofen/cv/master/photos/2015-06-12%2006.19.15-2.jpg)
+* [motorcycling](https://raw.githubusercontent.com/Ibuprofen/cv/master/photos/P6260486.JPG)
+* [paintball](https://www.pbnation.com/misc2.php?do=aboutus)
+* cycling
+* music
 
 
-More to come... :+1:
+More to come... :+1: :+1:
+
