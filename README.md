@@ -12,8 +12,15 @@ https://github.com/Ibuprofen
 
 ## Experience
 
+### Principal Software Engineer - Reperio Health
+#### March 2022 - Present
+
+
+<br>
+
+
 ### Senior Software Engineer - The Walt Disney Company
-#### October 2017 - Present
+#### October 2017 - March 2022
 
 Tech used at TWDC: `react` `backbone` `gcp` `wordpress` `rack` `ruby` `jquery` `docker` `varnish` `nginx` `nodejs` `lighthouse`
 
