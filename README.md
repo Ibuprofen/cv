@@ -8,13 +8,21 @@ https://github.com/Ibuprofen
 > To use and expand my skills as someone who spends too much time on the Internet.
 
 ## Technology
-`reactjs` `docker` `backbonejs` `aws` `gcp` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
+`react native` `typescript` `redux toolkit` `golang` `reactjs` `docker` `backbonejs` `aws` `gcp` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
 
 ## Experience
 
 ### Principal Software Engineer - Reperio Health
 #### March 2022 - Present
 
+Tech used at Reperio: `react native` `react` `redux toolkit` `typescript` `golang` `postgres` `aws` `lambda` `sentryio` `codecov`
+
++ Built a React Native based mobile application for company warehouses using current best practices (TDD, CI/CD).
++ Contributed to the internal React based CMS and Golang based API backend.
++ Created typescript based AWS lambda functions for real time asset tracking.
++ Close relationship and tight feedback loop with the warehouse and internal stakeholders.
++ Mentorship in code reviews, naming conventions, patterns, best practices, and design.
++ Troubleshooting physical hardware issues using bench power supplies, oscilloscopes, etc.
 
 <br>
 
@@ -22,11 +30,12 @@ https://github.com/Ibuprofen
 ### Senior Software Engineer - The Walt Disney Company
 #### October 2017 - March 2022
 
-Tech used at TWDC: `react` `backbone` `gcp` `wordpress` `rack` `ruby` `jquery` `docker` `varnish` `nginx` `nodejs` `lighthouse`
+Tech used at TWDC: `react` `apollo` `graphql` `backbone` `gcp` `wordpress` `rack` `ruby` `jquery` `docker` `varnish` `nginx` `nodejs` `lighthouse`
 
++ Helped build CMS that powers National Geographic.
++ Created new functionality and updates on well known sites such as disney.com, starwars.com, abcnews.com, and nationalgeographic.com.
 + Able to support modern frameworks and libraries as well as older tech.
 + A team member that others look to for guidance and assistance.
-+ Supporting and updating well known sites such as disney.com and starwars.com.
 
 <br>
 
