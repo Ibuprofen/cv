@@ -1,4 +1,4 @@
-# Tony Rieker
+# Anthony "Tony" Rieker
 
 tony@plenary.org<br>
 Portland, OR, United States<br>
