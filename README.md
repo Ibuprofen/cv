@@ -5,8 +5,6 @@ Portland, OR, United States<br>
 https://github.com/Ibuprofen
 
 
-> To use and expand my skills as someone who spends too much time on the Internet.
-
 ## Technology
 `react native` `typescript` `redux toolkit` `golang` `reactjs` `docker` `backbonejs` `aws` `gcp` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
 
