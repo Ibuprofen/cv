@@ -6,12 +6,21 @@ https://github.com/Ibuprofen
 
 
 ## Technology
-`react native` `typescript` `redux toolkit` `golang` `reactjs` `docker` `backbonejs` `aws` `gcp` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jeknins-ci` `python`
+`react native` `typescript` `redux toolkit` `golang` `reactjs` `docker` `backbonejs` `aws` `gcp` `ruby` `ruby-on-rails` `REST` `php` `symfony2` `nodejs` `jquery` `javascript` `derbyjs` `twitter-bootstrap` `css` `css3` `html` `html5` `photoshop` `adobe-illustrator` `mysql` `mysqli` `mongodb` `mongoid` `memcached` `tire` `elasticsearch` `centos` `ubuntu` `linux` `nginx` `apache` `gentoo` `git` `github` `mvc` `sublimetext2` `virtualization` `jenkins-ci` `python`
 
 ## Experience
 
+### Lead Software Engineer - The Walt Disney Company
+#### September 2024 - Current
+
+Tech used at The Walt Disney Company: `nodejs`
+
++ In progress...
+
+<br>
+
 ### Principal Software Engineer - Reperio Health
-#### March 2022 - Present
+#### March 2022 - September 2024
 
 Tech used at Reperio: `react native` `react` `redux toolkit` `typescript` `golang` `postgres` `aws` `lambda` `sentryio` `codecov`
 
@@ -102,22 +111,13 @@ Tech used at PbNation: `php` `mysql` `mysqli` `redhat` `memcached` `vbulletin` `
 + On call 24/7.
 + Acquired by publicly traded CrowdGather in 2011.
 
-## 
-
-### Everything – RapidOrb – rapidorb.com
-#### September 2013 – 2016
-
-Tech used on RapidOrb: `backbone` `ruby-on-rails` `mongodb` `elasticsearch`
-
-+ Hobby / Side Project
-+ Web scraping various paintball classified to make finding used equipment a breeze.
-+ Sending email alerts when saved searches match newly ingested listings.
-
+<br>
 
 ## Education
 Some University of Cincinnati Computer Science, *2001 - 2002*<br>
 Lehman Catholic High School, *1997 - 2001*
 
+<br>
 
 ## Hobbies
 * [mechanics](https://www.youtube.com/watch?v=gvJm-KGBxm0)
